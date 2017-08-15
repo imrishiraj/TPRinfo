@@ -1,7 +1,7 @@
 <h1> TPRinfo </h1>
 <h4>tprinfo is a web based application that automates the tasks performed by TAP(Training and Placement Cell) member at NIT Jamshedpur. Placement season is a busy time for students as well as for Placement cell co-ordinators. A lot of times it is observed that accumulating academic and personal details of all the students of the class is a cumbersome task. Moreover there are many dynamic components of details that keep changing frequently. e.g. - CGPA which changes after every semester. Even phone number in some cases. In addition to this everytime a company visits the campus students wish to moduify their resumes before applying to that company in accordance to the requirements of the profile that company is offering. To sort this becomes a herculean task for co-ordinators. To simply all this tprinfo comes to rescue. It can handles all the dynamic components of student's application in real time. Student co-ordinators can have access to updated data at all times which saves a lot of time and effort from his/her part and also increases the efficiency of the process. </h4>
 
-<h2>tprinfo is available for use at - tprinfo - http://scanitjsr.org/tapkey/</h2>
+<h2>tprinfo is available for use at - tprinfo - http://scanitjsr.org/tprinfo/</h2>
 
 <h2>Features</h2>
 <h3>There are in total of 3 broad categories of features as following-</h3>
